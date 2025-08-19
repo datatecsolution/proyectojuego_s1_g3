@@ -16,7 +16,7 @@ public class Enemigo {
     public boolean estarVivo(){
 
     }
-    public Enemigo (Strin, int){
+    public Enemigo (String n, int){
 
     }
     public  String gitNombre{
