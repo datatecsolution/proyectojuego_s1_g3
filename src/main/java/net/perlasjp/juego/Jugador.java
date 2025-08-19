@@ -5,12 +5,23 @@ public class Jugador {
     private int salud;
     private int forma;
 
-    public int atacar()
-    public void recibirDanio(danio:int)void
-    public boolean estaVivo()
-    public su
-    public 
 
+    public int atacar(){
+    }
+    public void recibirDanio(danio:int)(){
+    }
+    
+    public boolean estaVivo(){
+    }
+     public  Jugador (String n){
+
+     }
+    public String gitNombre(){
+    }
+    public int gitSaludo(){
+    }
+    public void mostrarEstado(){
+    }
     
     
 }
