@@ -10,13 +10,13 @@ public class Enemigo {
     public int atacar(){
 
     }
-    public void recibirDanio(danio,int){
+    public void recibirDanio(int danio){
 
     }
     public boolean estarVivo(){
         return false;
     }
-    public Enemigo (String n, int){
+    public Enemigo (int String n){
 
     }
     public  String getNombre{
