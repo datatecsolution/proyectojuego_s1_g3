@@ -10,19 +10,19 @@ public class Enemigo {
     public int atacar(){
 
     }
-    public void recibirDanio(daño:int){
+    public void recibirDanio(danio,int){
 
     }
     public boolean estarVivo(){
-
+        return false;
     }
     public Enemigo (String n, int){
 
     }
-    public  String gitNombre{
+    public  String getNombre{
 
     }
-    public int gitSalud{
-
+    public int getSalud{
+        return 0;
     }
-}
+} 
