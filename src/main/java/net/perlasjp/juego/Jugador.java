@@ -7,18 +7,22 @@ public class Jugador {
 
 
     public int atacar(){
+        return 0;
     }
-    public void recibirDanio(danio:int)(){
+    public void recibirDanio(int danio){
     }
     
     public boolean estaVivo(){
+        return false;
     }
-     public  Jugador (String n){
+     public void Jugador (String n){
 
      }
-    public String gitNombre(){
+    public String getNombre(){
+        return nombre;
     }
-    public int gitSaludo(){
+    public int getSaludo(){
+        return salud; 
     }
     public void mostrarEstado(){
     }
