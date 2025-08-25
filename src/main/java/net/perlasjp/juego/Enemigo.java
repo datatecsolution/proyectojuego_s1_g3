@@ -28,3 +28,4 @@ public class Enemigo {
         return salud;
     }
 } 
+
