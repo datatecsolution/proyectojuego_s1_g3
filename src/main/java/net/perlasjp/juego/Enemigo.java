@@ -20,9 +20,10 @@ public class Enemigo {
 
     }
     public  String getNombre{
+    return nombre;
 
     }
     public int getSalud{
-        return 0;
+        return salud;
     }
 } 
