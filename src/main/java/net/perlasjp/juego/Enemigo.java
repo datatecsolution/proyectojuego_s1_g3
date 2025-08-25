@@ -8,6 +8,7 @@ public class Enemigo {
 
 
     public int atacar(){
+        return 0;
 
     }
     public void recibirDanio(int danio){
