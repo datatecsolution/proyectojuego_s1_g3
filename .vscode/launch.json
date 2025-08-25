@@ -5,7 +5,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
-            "mainClass": "Main",
+            "mainClass": "net.perlasjp.juego.Main"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "net.perlasjp.juego.Main",
             "projectName": "proyectojuego_s1_g3"
         },
         {

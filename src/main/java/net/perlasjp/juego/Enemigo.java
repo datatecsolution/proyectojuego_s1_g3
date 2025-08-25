@@ -17,14 +17,14 @@ public class Enemigo {
     public boolean estarVivo(){
         return false;
     }
-    public Enemigo (int String n){
+    public Enemigo (int salud, String n){
+
 
     }
-    public  String getNombre{
-    return nombre;
-
+    public  String getNombre(){
+        return nombre;
     }
-    public int getSalud{
+    public int getSalud(){
         return salud;
     }
 } 
