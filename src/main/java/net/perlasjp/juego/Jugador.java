@@ -6,6 +6,9 @@ public class Jugador {
     private int forma;
 
 
+    public Jugador(String nombre2) {
+        //TODO Auto-generated constructor stub
+    }
     public int atacar(){
         return 0;
     }
